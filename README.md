@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Firebase Ecommerce Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See The Live server : [Click Here](https://amajhon-simple-9b0b5.web.app/).
 
 ## Available Scripts
 
